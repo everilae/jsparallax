@@ -33,7 +33,7 @@
 
                 $this.css('transform', 'matrix(' + matrix + ')');
             });
-        }
+        };
 
         $(function () {
             $elements = $('.js-parallax');
